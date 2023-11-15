@@ -1,0 +1,22 @@
+*{font-family: 'Times New Roman', Times, serif;}
+
+
+.heading {
+    color: aquamarine;
+}
+button {
+    background-color: rgb(52, 165, 42);
+}
+p{
+    text-align: center;
+}
+h1{text-align: centre;
+text-transform: capitalize;
+}
+h2{text-decoration: blueviolet wavy underline;}
+a{text-decoration: none;}
+@media(min-width:700px){
+ #inner {
+    background-color: aqua;
+ }
+}
